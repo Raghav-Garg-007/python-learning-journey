@@ -1,0 +1,12 @@
+Day 1 Reflection:
+- Successfully installed and verified Python 3.13
+- Using PyCharm as IDE (already installed)
+- Verified Git is working (version 2.51.0)
+- Created and ran multiple Python scripts:
+  * hello.py - Basic print statements and variables
+  * input_example.py - User input handling
+  * types_example.py - Data types and operations
+  * string_example.py - String manipulation methods
+  * about_me.py - Interactive personal information script
+- Learned about different data types and string methods
+- Successfully set up Git version control and committed all code
