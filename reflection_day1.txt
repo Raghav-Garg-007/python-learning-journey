@@ -9,4 +9,11 @@ Day 1 Reflection:
   * string_example.py - String manipulation methods
   * about_me.py - Interactive personal information script
 - Learned about different data types and string methods
-- Successfully set up Git version control and committed all code
+- Successfully set up Git version control and committed all code(.venv) PS C:\Users\dell\py-refresher> git add reflection_day1.txt
+(.venv) PS C:\Users\dell\py-refresher> git commit -m "Added Day 1 reflection"
+[main ce775f1] Added Day 1 reflection
+ 1 file changed, 12 insertions(+)
+ create mode 100644 reflection_day1.txt
+(.venv) PS C:\Users\dell\py-refresher>
+
+
